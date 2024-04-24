@@ -1,7 +1,7 @@
 # Hello, I'm Kwame
 <a href="https://www.linkedin.com/in/kwamedavour/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm Kwame, an accomplished professional in the area of cybersecurity and software engineering.
+I'm Kwame, an accomplished professional in the area of cybersecurity and software engineering.<br />
 With a wealth of experience and expertise in both fields, I specialize in securiing digital assets and building software solutions.
 
 ## Objective
