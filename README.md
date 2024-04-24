@@ -42,7 +42,6 @@ I'm passionate about leveraging technology to empower organizations and individu
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-CISSP-0052CC?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
