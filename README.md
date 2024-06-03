@@ -7,7 +7,16 @@ With a wealth of experience and expertise in both fields, I specialize in securi
 ## Objective
 I'm passionate about leveraging technology to empower organizations and individuals while providing protection against evolving threats in the digital landscape.
 
-## Skills
+## Skills - Cybersecurity
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/ghost-protocol/Cyber-Lab/tree/main">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Skills - Software Development
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
