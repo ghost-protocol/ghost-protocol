@@ -4,8 +4,10 @@
 I'm Kwame, an accomplished professional in the area of cybersecurity and software engineering.<br />
 With a wealth of experience and expertise in both fields, I specialize in securing digital assets and building software solutions.
 
+
 ## Objective
 I'm passionate about leveraging technology to empower organizations and individuals while providing protection against evolving threats in the digital landscape.
+
 
 ## Skills - Cybersecurity
 
@@ -16,6 +18,7 @@ I'm passionate about leveraging technology to empower organizations and individu
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+
 ## Skills - Software Development
 
 | Skill                                         | Associated Project         |
@@ -24,6 +27,7 @@ I'm passionate about leveraging technology to empower organizations and individu
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
@@ -34,11 +38,13 @@ I'm passionate about leveraging technology to empower organizations and individu
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
+
 
 ### SIEM
 <div>
@@ -46,6 +52,7 @@ I'm passionate about leveraging technology to empower organizations and individu
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
 
 ## Certifications
 <div>
