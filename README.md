@@ -5,8 +5,8 @@ I'm Kwame, an accomplished professional in the area of cybersecurity and softwar
 With a wealth of experience and expertise in both fields, I specialize in securing digital assets and building software solutions.  
 
 ## Objective
-I'm passionate about leveraging technology to empower organizations and individuals while providing protection against evolving threats in the digital landscape.\
-
+I'm passionate about leveraging technology to empower organizations and individuals while providing protection against evolving threats in the digital landscape.
+  
 ## Skills - Cybersecurity
 
 | Skill                                         | Associated Project         |
