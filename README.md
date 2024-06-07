@@ -21,7 +21,6 @@ I'm passionate about leveraging technology to empower organizations and individu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/ghost-protocol/Cyber-Lab/tree/main">Detection Lab</a>|
 | Portable Web App | <a href="https://github.com/ghost-protocol/Pokemon-PWA">Portable Web App</a>|
 | Parcel Delivery App      | <a href="https://github.com/ghost-protocol/swyftparcel">Parcel Delivery App</a>|
 
