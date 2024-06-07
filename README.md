@@ -41,6 +41,8 @@ I'm passionate about leveraging technology to empower organizations and individu
   <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs" /> 
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
    <img src="https://img.shields.io/badge/-json-005571?&style=for-the-badge&logo=json&logoColor=white" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/simpleicons.svg" />
 </div>
 
 
